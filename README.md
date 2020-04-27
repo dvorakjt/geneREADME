@@ -1,5 +1,5 @@
 # GeneREADME
-![Screenshot of geneREADME by dvorakjt](./assets/screenshots/screen-1.png)
+![Screenshot of geneREADME by dvorakjt](./assets/screenshots/screen-1.png)  
 This project is a node.js file which guides the user through the process of generating a readme, and then saves the resultant markdown file.  A link to the repository can be found [here.](https://github.com/dvorakjt/geneREADME)
 ## Table of Contents
 
@@ -33,7 +33,7 @@ When the user first runs the application, some introductory text will be display
 
 ## Tests
 
- 
+So far, I wrote one test using Jest to check that the Template file indeed creates the correct Template.text result given an answers object. I intend to add more tests as I learn to use Jest.
 
 ## Contributing
 
