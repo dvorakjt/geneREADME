@@ -1,22 +1,15 @@
 # GeneREADME
 ![Screenshot of geneREADME by dvorakjt](./assets/screenshots/screen-1.png)
-
-This project is a node.js file which guides the user through the process of generating a readme, and then saves the resultant markdown file. A link to the repository can be found [here.](https://github.com/dvorakjt/geneREADME)
+This project is a node.js file which guides the user through the process of generating a readme, and then saves the resultant markdown file.  A link to the repository can be found [here.](https://github.com/dvorakjt/geneREADME)
 ## Table of Contents
 
-[Introduction](#introduction)
-
-[Installation](#installation)
-
-[Usage](#usage)
-
-[Tests](#tests)
-
-[Contributing](#contributing)
-
-[License](#license)
-
-[About the Author](#about-the-author)
+[Introduction](#introduction)  
+[Installation](#installation)  
+[Usage](#usage)  
+[Tests](#tests)  
+[Contributing](#contributing)  
+[License](#license)  
+[About the Author](#about-the-author)  
 
 ## Introduction
 
@@ -31,7 +24,7 @@ To install GeneREADME, clone this repository. You will need to have node.js inst
 
 ### Dependencies
 
-inquirer, chalk, dev: jest
+Axios, Chalk, Inquirer
 
 ## Usage
 ![Usage Image](./assets/screenshots/screen-3.png)
@@ -40,14 +33,14 @@ When the user first runs the application, some introductory text will be display
 
 ## Tests
 
-GeneREADME was tested using Jest.
+ 
 
 ## Contributing
 
-If you notice any errors in the code, please submit a Github issue. 
+If you notice any errors in the code, please create a Github issue. 
 
 ## License
-### Licensed under an MIT License
+### This project is licensed under an MIT License.
 
 ![GitHub](https://img.shields.io/github/license/dvorakjt/geneREADME)
 
@@ -55,6 +48,8 @@ If you notice any errors in the code, please submit a Github issue.
 ## About the Author
 
 Joe Dvorak
+
+![your github profile pic](https://avatars3.githubusercontent.com/u/61166366?v=4)
 
 Github: dvorakjt
 
